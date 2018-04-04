@@ -1,0 +1,15 @@
+applications:
+- name: zipkin-server
+  disk_quota: 1G
+  instances: 1
+  path: /Users/omarg/dev/lib/zipkin-server-2.7.0-exec.jar
+  buildpack: java_buildpack
+  memory: 1G
+  routes:
+  - route: zipkin-server-poc.cfapps.io
+  services:
+  - rabbit
+  stack: cflinuxfs2
+  env:
+      SPRING_PROFILES_ACTIVE: dev
+      RABBIT_URI: amqp://vkayoihz:Lv3U-1W9Ot9Et4bh7UQ6-keJ2uTFVUaj@llama.rmq.cloudamqp.com/vkayoihz

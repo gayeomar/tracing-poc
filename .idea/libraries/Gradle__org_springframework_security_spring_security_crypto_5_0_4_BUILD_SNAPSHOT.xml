@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-crypto:5.0.4.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.4.BUILD-SNAPSHOT/88572b200207f381526ae94f87383b51c8c43acb/spring-security-crypto-5.0.4.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.4.BUILD-SNAPSHOT/bd691679ec4111b758aea6c21495c8156fae26c6/spring-security-crypto-5.0.4.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.4.BUILD-SNAPSHOT/8000868fbcb3a88a9d5b96958bc13299992b7932/spring-security-crypto-5.0.4.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.4.BUILD-SNAPSHOT/a8edd3d33bdab9f729be417015d6a2e666ff8bfa/spring-security-crypto-5.0.4.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

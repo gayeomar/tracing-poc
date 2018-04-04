@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-sleuth-zipkin:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/2.0.0.BUILD-SNAPSHOT/24cb1aa9c394b4aaa19df5274bf13189c1435c52/spring-cloud-sleuth-zipkin-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/2.0.0.BUILD-SNAPSHOT/e6c26ed51459ea393e46a6279d95637d2d52594f/spring-cloud-sleuth-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/2.0.0.BUILD-SNAPSHOT/8c18720f09166b77b72b958c5ab84fb756ab4878/spring-cloud-sleuth-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/2.0.0.BUILD-SNAPSHOT/a2468d26f912c342a40f5370a7752bb9fa73ca71/spring-cloud-sleuth-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/2.0.0.BUILD-SNAPSHOT/ef55aab9c9917582c84ea4443c61a15aa0d94fce/spring-cloud-sleuth-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

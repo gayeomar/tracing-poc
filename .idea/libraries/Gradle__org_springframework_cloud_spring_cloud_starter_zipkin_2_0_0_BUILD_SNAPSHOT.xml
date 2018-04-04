@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-zipkin:2.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/2.0.0.BUILD-SNAPSHOT/af8aeb1df0c1ea5187be1ff385b049acdc506d1d/spring-cloud-starter-zipkin-2.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/2.0.0.BUILD-SNAPSHOT/d633e3d38a1fd065e3f7cd6ed9c8ebcf1d04dbfc/spring-cloud-starter-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/2.0.0.BUILD-SNAPSHOT/46d74157034473539b064235e396c7977d6e095e/spring-cloud-starter-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/2.0.0.BUILD-SNAPSHOT/176bedc505fd73dcd35fd3b1f2451ca7ddc30cbc/spring-cloud-starter-zipkin-2.0.0.BUILD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

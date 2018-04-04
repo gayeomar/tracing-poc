@@ -1,0 +1,17 @@
+applications:
+- name: restful-service-2
+  disk_quota: 1G
+  instances: 1
+  path: ../build/libs/trace-restful-service-2-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack
+  memory: 1G
+  routes:
+  - route: restful-service-2.cfapps.io
+  services:
+  - rabbit
+  - zipkin-server
+  - service-2
+  - service-3
+  stack: cflinuxfs2
+  env:
+      SPRING_PROFILES_ACTIVE: dev

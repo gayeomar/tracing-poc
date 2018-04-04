@@ -1,0 +1,5 @@
+cf cups zipkin-server -p '{"url" : "https://zipkin-server-poc.cfapps.io"}'
+
+cf cups service-1 -p '{"url" : "https://restful-service-1.cfapps.io"}'
+cf cups service-2 -p '{"url" : "https://restful-service-2.cfapps.io"}'
+cf cups service-3 -p '{"url" : "https://restful-service-3.cfapps.io"}'

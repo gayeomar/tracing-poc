@@ -1,0 +1,1 @@
+cf cups zipkin-server -p '{"url" : "https://zipkin-server-poc.cfapps.io"}'
